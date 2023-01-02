@@ -18,9 +18,13 @@ public class test01 {
         a.add("bbb");
         a.add("ccc");
         a.forEach(System.out::println);
+
+        int x=0;
+
         for (String s : a) {
 
         }
+
         //endregion
 
 
