@@ -19,7 +19,7 @@ public class test01 {
         a.add("ccc");
         a.forEach(System.out::println);
 
-        int x=0;
+        int x=1;
 
         for (String s : a) {
 
